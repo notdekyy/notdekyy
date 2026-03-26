@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello there! My name is Chirag and I'm a first-year CSE undergraduate student specializing in Artificial Intelligence. Currently, my focus is on mastering the basic concepts of data structures, algorithms, and core Python programming. Besides that, I'm a video editor and am looking for freelancing opportunities to utilize my creative skills.
 
 
